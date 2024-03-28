@@ -1,0 +1,21 @@
+{
+  "name": "fictorial-light-blue",
+  "displayName": "fictorial-light-blue",
+  "description": "A light color scheme with emphasis on comments and strings and blue hints.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fictorial Light (Blue)",
+        "uiTheme": "vs",
+        "path": "./themes/fictorial-light-blue-theme.json"
+      }
+    ]
+  }
+}
