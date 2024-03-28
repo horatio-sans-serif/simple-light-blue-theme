@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.87.0"
   },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fictorial/fictorial-light-blue-theme"
+  },
   "categories": [
     "Themes"
   ],
